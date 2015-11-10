@@ -1,0 +1,41 @@
+Validity conserns in quantitative research
+
+In (1), several types of validity are defined. One of these is content
+validity. This type of validity regards whether or not the items in the survey
+properly covers all the relevant data of the sample domain. Content validity is
+subjective (1) and is usually determined by a group of experts (1)(2).
+When conducting quantitative research, one should consider external validity,
+which regards whether or not the results are generalizable. One external
+perspective according to (3) is ecological validity where one considers whether
+the research study was realistic and as such if the results are applicable in a
+natural enviroment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------
+Notes
+-Internal and external
+    *External regards generalization of method
+    *Internal(Content) regards whether the test actualy measures what it is
+supposed to measure.
+-Triangulation
+
+---------------------------------------------
+Sources
+(1) Validity.pdf
+(2) Siffror.pdf
+(3) art......pdf
