@@ -1,6 +1,6 @@
 x Ändra referenser som finns in samma bok till att ligga i samma fil men med
   rätt siffror för referenser i namnet. 
-- Byt namn på Naturalistic Inquiry till att ha med Lincoln i namnet. 
+x Byt namn på Naturalistic Inquiry till att ha med Lincoln i namnet. 
 - Hitta källan på Kuhn!
 - Lägga till markering i Creswell som inte OCRad.
 - Lägga till markering i Guba och Lincoln [7] som inte är OCRad. 
