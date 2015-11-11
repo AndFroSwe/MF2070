@@ -1,4 +1,4 @@
-- Ändra referenser som finns in samma bok till att ligga i samma fil men med
+x Ändra referenser som finns in samma bok till att ligga i samma fil men med
   rätt siffror för referenser i namnet. 
 - Byt namn på Naturalistic Inquiry till att ha med Lincoln i namnet. 
 - Hitta källan på Kuhn!
@@ -8,3 +8,10 @@
   ordinarie sidnummer. 
 - Svaret på vilka resultat som är giltiga inom social konstruktivism är inte
   bra, källan verkar inte täcka det vi vill. 
+x Ändra alla referenser och kommentera vilken referens överstrykningen tillhör.
+- Ska man ha referenser för Magnusson när man pratar om metoder som är kvanitativa och kvalitativa?
+- How do firms har bra referenser på kvalitativ research och grounded theory.
+x Ändra så att alla källor bara har efternamnet i titeln.
+x Se till att alla källor är av rätt typ (bok, journal...).
+- Hitta delen i källan som säger att pragmatiker använder what works.
+
