@@ -18,3 +18,4 @@ x Se till att alla källor är av rätt typ (bok, journal...).
 - Ändra så att bara huvudtitel används.
 - Creswell RD har bra källa på sätt att motverka validity concerns.
 - Referensnummer kommer att behöva ändras i rapporterna när allt är klart.
+- Behöver referens till mathematical modeling.
