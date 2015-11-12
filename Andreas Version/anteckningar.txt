@@ -21,3 +21,4 @@ x Se till att alla källor är av rätt typ (bok, journal...).
 - Behöver referens till mathematical modeling.
 - Fråga 9 och 10 behöver arbetas om nu när  vi ändrat frågorna innan.
 - Under fråga 8, skriva nånting om att experimental research kan förväntas ha kvantitativa metoder?
+- Research Methods sida 328 som svar på 16
