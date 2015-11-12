@@ -2,23 +2,23 @@ x Ändra referenser som finns in samma bok till att ligga i samma fil men med
   rätt siffror för referenser i namnet. 
 x Byt namn på Naturalistic Inquiry till att ha med Lincoln i namnet. 
 - Hitta källan på Kuhn!
-- Lägga till markering i Creswell som inte OCRad.
-- Lägga till markering i Guba och Lincoln [7] som inte är OCRad. 
-- Alla sidnummer hittills är i sida i pdfen utom källa [7] där den är för
+x Lägga till markering i Creswell som inte OCRad.
+x Lägga till markering i Guba och Lincoln [7] som inte är OCRad. 
+x Alla sidnummer hittills är i sida i pdfen utom källa [7] där den är för
   ordinarie sidnummer. 
-- Svaret på vilka resultat som är giltiga inom social konstruktivism är inte
+x Svaret på vilka resultat som är giltiga inom social konstruktivism är inte
   bra, källan verkar inte täcka det vi vill. 
 x Ändra alla referenser och kommentera vilken referens överstrykningen tillhör.
-- Ska man ha referenser för Magnusson när man pratar om metoder som är kvanitativa och kvalitativa?
-- How do firms har bra referenser på kvalitativ research och grounded theory.
+x Ska man ha referenser för Magnusson när man pratar om metoder som är kvanitativa och kvalitativa?
+x How do firms har bra referenser på kvalitativ research och grounded theory.
 x Ändra så att alla källor bara har efternamnet i titeln.
 x Se till att alla källor är av rätt typ (bok, journal...).
 - Hitta delen i källan som säger att pragmatiker använder what works.
 - Ordentlig källa på att etnicitet är viktigt för social constructivists.
-- Ändra så att bara huvudtitel används.
-- Creswell RD har bra källa på sätt att motverka validity concerns.
+x Ändra så att bara huvudtitel används.
+x Creswell RD har bra källa på sätt att motverka validity concerns.
 - Referensnummer kommer att behöva ändras i rapporterna när allt är klart.
 - Behöver referens till mathematical modeling.
 - Fråga 9 och 10 behöver arbetas om nu när  vi ändrat frågorna innan.
-- Under fråga 8, skriva nånting om att experimental research kan förväntas ha kvantitativa metoder?
-- Research Methods sida 328 som svar på 16
+x Under fråga 8, skriva nånting om att experimental research kan förväntas ha kvantitativa metoder?
+x Research Methods sida 328 som svar på 16
